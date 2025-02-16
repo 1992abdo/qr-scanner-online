@@ -3,6 +3,7 @@
   <li>You can scan QR Code from Image, just upload your image and the sacanner will do the rest</li>
   <li>You can also scan QR code from camera, You should give it an acces to your camera</li>
 </ol>
+Direct test on <a href="https://2scan.net/">https://2scan.net/</a>
 <h2>It's supoort deferents types of QR Codes and Barcodes</h2>
 <ul>
   <li>aztec</li>
