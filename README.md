@@ -6,7 +6,6 @@
 <h2>It's supoort deferents types of QR Codes and Barcodes</h2>
 <ul>
   <li>aztec</li>
-  ![aztec barcode](https://github.com/user-attachments/assets/22c4b20b-7c2c-4812-b51b-d94c62f02973)
   <li>code_128</li>
   <li>code_39</li>
   <li>code_93</li>
@@ -21,3 +20,11 @@
   <li>upc_e</li>
   <li>scanner</li>
 </ul>
+
+<h2>Prerequisites</h2>
+<ol>
+  <li>Node.js (v20.x.x)</li>
+  <li>npm (v10.x.x)</li>
+</ol>
+
+
