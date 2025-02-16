@@ -1,0 +1,23 @@
+<h1>QR code scanner online that offers Two options to scan QR code online</h1>
+<ol>
+  <li>You can scan QR Code from Image, just upload your image and the sacanner will do the rest</li>
+  <li>You can also scan QR code from camera, You should give it an acces to your camera</li>
+</ol>
+<h2>It's supoort deferents types of QR Codes and Barcodes</h2>
+<ul>
+  <li>aztec</li>
+  ![aztec barcode](https://github.com/user-attachments/assets/22c4b20b-7c2c-4812-b51b-d94c62f02973)
+  <li>code_128</li>
+  <li>code_39</li>
+  <li>code_93</li>
+  <li>codabar</li>
+  <li>data_matrix</li>
+  <li>ean_13</li>
+  <li>ean_8</li>
+  <li>itf</li>
+  <li>pdf417</li>
+  <li>qr_code</li>
+  <li>upc_a</li>
+  <li>upc_e</li>
+  <li>scanner</li>
+</ul>
